@@ -1,2 +1,6 @@
-# tank-wars
-Player control a tank and goal is to destroy the enemy tank and progress to next level. This is project / game I worked on during my internship at "Edunest" (startup).  I can't share complete projects (only scripts).)
+Tank Wars
+A player-controlled tank game where the objective is to destroy enemy tanks and progress through levels.
+This project was developed during my internship at Edunest (a startup).
+Due to confidentiality, I can only share the scripts, not the complete project.
+
+This repository is for portfolio purposes only.
